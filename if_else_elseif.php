@@ -7,4 +7,8 @@
 	else{
 		echo "$n : 홀수";
 	}
+/*if (condition) {
+	// code...
+}
+if 기본 문법*/
 ?>
