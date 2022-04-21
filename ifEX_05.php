@@ -4,17 +4,15 @@
 	$c = 9;
 
 	if ($a > $b) {
-		// code...
+		
 		if ($a > $c) {
-			// code...
+			
 			$max1 = $age;
 			if ($b > $c) {
-				// code...
 				$max2 = $b;
 				$max3 = $c;
 			}
 			else{
-				// code...
 				$max2 = $c;
 				$max3 = $b;
 			}
